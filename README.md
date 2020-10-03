@@ -1,75 +1,101 @@
+<div align="right">Language: English | <a title="Chinese" href="https://github.com/yrccondor/mdx/blob/master/README/zh_CN.md">Chinese</a> | <a title="Turkish" href="https://github.com/yrccondor/mdx/blob/master/README/tr_TR.md">Turkish</a></div>
+
+<br>
+
 <p align="center">
-<img src="https://img.flyhigher.top/top.jpg" alt="MDx">
+<img src="https://img.flyhigher.top/mdx-2020-new.jpg" alt="MDx">
 </p>
 
 <h1 align="center"><a href="https://mdx.flyhigher.top" target="_blank">MDx</a></h1>
 
-> 轻于形，悦于心
+> Looks light, power inside.
 
 <p align="center">
-<img alt="Version" src="https://img.shields.io/badge/version-1.8.7-3f51b5.svg?style=flat-square"/>
+<img alt="Version" src="https://img.shields.io/badge/version-1.9.10-3f51b5.svg?style=flat-square"/>
 <img alt="build" src="https://img.shields.io/badge/dynamic/json.svg?label=build&url=https%3A%2F%2Fbuildmdx.flyhigher.top%2Fbuild.json&query=%24.sta&colorB=44cc11&style=flat-square"/>
 <a href="https://github.com/yrccondor/mdx/releases"><img alt="releases" src="https://img.shields.io/github/release/yrccondor/mdx.svg?style=flat-square"/></a>
 <a href="https://flyhigher.top"><img alt="Author" src="https://img.shields.io/badge/author-Axton-red.svg?style=flat-square"/></a>
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-4.4%2B-blue.svg?style=flat-square"/>
-<a href="https://mdx.flyhigher.top"><img alt="Download" src="https://img.shields.io/badge/download-1.15M-brightgreen.svg?style=flat-square"/></a>
+<a href="https://mdx.flyhigher.top"><img alt="Download" src="https://img.shields.io/badge/download-2.28M-brightgreen.svg?style=flat-square"/></a>
 <a href="https://github.com/yrccondor/mdx/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL%20V3.0-orange.svg?style=flat-square"/></a>
 <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fyrccondor%2Fmdx?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyrccondor%2Fmdx.svg?type=shield"/></a>
 </p>
 
 
-## Contents 目录
+## Contents
 
-- [Introduction 介绍](#introduction-介绍)
-- [Demo 演示](#demo-演示)
-- [Download 下载](#download-下载)
-- [Docs 文档](#docs-文档)
-- [License 许可证](#license-许可证)
-- [Render 渲染](#render-渲染)
+- [Contents](#contents)
+- [Introduction](#introduction)
+- [Demo](#demo)
+- [Download](#download)
+- [Internationalization](#internationalization)
+- [Docs](#docs)
+- [License](#license)
+- [Render](#render)
 
 
-## Introduction 介绍
-
-MDx，一款轻快、优雅且强大的 Material Design 风格 WordPress 主题。
+## Introduction
 
 MDx: a light, elegent and powerful WordPress theme with Material Design.
 
+Key features:
 
-## Demo 演示
+- Completely designed in Material Design with optional Material Design 2 style
+- 3 index styles, 5 post list styles, 3 footer styles & 3 page styles
+- 20 theme colors & 16 accent colors
+- Night mode and Always-Dark mode with optional OLED optimization
+- SEO friendly, easily share on Facebook / Twitter
+- Fast and light, Pagespeed score 99% & YSlow score 98% (Based on minimized installation)
+- Share your work with the beautiful share card
+- Built-in TOC
+- Built-in image light box
+- 7 built-in shortcodes
+- Multi-language support (Simplified Chinese, Traditional Chinese, Turkish & English)
+- ✨ Interactive search
+- ✨ Easily continue reading cross-platformly
 
-[无垠](https://flyhigher.top)
+
+## Demo
+
+- [MDx Blog](https://mdxblog.flyhigher.top)
+- [Flyhigher](https://flyhigher.top)
 
 
-## Download 下载
+## Download
 
 You can download MDx [HERE](https://mdx.flyhigher.top).
 
-你可以前往 [这里](https://mdx.flyhigher.top) 下载 MDx。
-
 You can also download MDx from [Releases](https://github.com/yrccondor/mdx/releases). **DO NOT `clone` this repository just for downloading.**
 
-你也可以前往 [Releases](https://github.com/yrccondor/mdx/releases) 页下载 MDx。**请不要为了下载而 `clone` 这个仓库。**
+
+## Internationalization
+
+MDx supports multi-language. Default language is simplified Chinese.
+
+Supported language(s):
+
+- Chinese (Simplified)
+- Turkish (Thanks [Hasan CAN](https://github.com/Sn0bzy))
+- English (Thanks [Ye Shu](https://github.com/yechs))
+- Traditional Chinese (Thanks [AngelKitty](https://github.com/AngelKitty))
+
+> You can help us to translate MDx into other languages!
 
 
-## Docs 文档
+## Docs
 
-[MDx 主题文档（为国内网络优化）](https://mdxdoc.flyhigher.top/)
-
-[MDx Docs](https://mdxdocs.flyhigher.top/)
+[MDx Docs](https://doc.flyhigher.top/mdx/)
 
 > English Docs are being translated.
 
 
-## License 许可证
+## License
 
 <a href="https://github.com/yrccondor/mdx/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-GPL%20V3.0-orange.svg?style=flat-square"/></a>
 
-
 Open sourced under the GPL v3.0 license.
 
-根据 GPL V3.0 许可证开源。
 
-
-## Render 渲染
+## Render
 
 ![](https://img.flyhigher.top/wp-content/uploads/2017/11/det.jpg)
